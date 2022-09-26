@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PII Full GRASP and SOLID [Test]
 ## FIT
 ### Universidad Católica del Uruguay
@@ -17,3 +18,6 @@ Se provee en este repositorio el código de la parte 2 de Full GRASP & SOLID ya 
 ### ¿Cómo agregar un proyecto de Test?
 
 Este repositorio *ya incluye* un proyecto de test, pero de ser necesario crear uno en otra instancia, lo podemos crear fácilemente utilizando [comandos de consola](https://github.com/ucudal/PII_Comandos).
+=======
+# GraspAndSolid2Test
+>>>>>>> 17d92ed5d130fe6f23716ba693447ced6a47adf5
